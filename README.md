@@ -1,4 +1,4 @@
-<img width="1562" height="561" alt="Matrix_2x2 Simulation" src="https://github.com/user-attachments/assets/bfe18d84-038a-46e9-9098-bd179b3d164f" /># Sequential-Vector-and-Matrix-Multiplier-on-FPGA-
+# Sequential-Vector-and-Matrix-Multiplier-on-FPGA-
 A vector and matrix multiplier on FPGA (Nexys DDR4 board) in sequential order for up to 2x2 matrices
 (sequential -> non-pipelined basically)
 
@@ -9,6 +9,7 @@ SW[15:8] are being used for inputting values.
 SW[1:0] are used to set modes.
 Buttons are for navigation, setting/saving values and resetting.
 The onboard 7-segment display will show the results.
+
 
 <img width="1555" height="474" alt="Vector_dot Simulation" src="https://github.com/user-attachments/assets/f49a61ef-b6f6-49fa-96a1-90ea11771fb4" />
 
